@@ -1,7 +1,5 @@
 Dasar Programming Pyhton
 
-
-
 Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
 
 Ketikkan fungsi dan string sebagai berikut
